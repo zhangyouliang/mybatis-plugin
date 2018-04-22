@@ -28,11 +28,11 @@ Mybatis Plugin 3.58
 
 效果:
 
-![image][https://raw.githubusercontent.com/zhangyouliang/mybatis-plugin/docs/step01.png]
+![image](https://raw.githubusercontent.com/zhangyouliang/mybatis-plugin/master/docs/step01.png)
 
 
 
-![image][https://raw.githubusercontent.com/zhangyouliang/mybatis-plugin/docs/step02.png]
+![image](https://raw.githubusercontent.com/zhangyouliang/mybatis-plugin/master/docs/step02.png)
 
 
 
